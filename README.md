@@ -17,3 +17,11 @@ I have created a detailed video explaining step by step. Go through 1st_vid, 2nd
 [![Watch the video](https://img.youtube.com/vi/HZuDEIxv5c0/maxresdefault.jpg)](https://youtu.be/HZuDEIxv5c0)
 
 ### [Watch this video on YouTube_1st_vid](https://youtu.be/HZuDEIxv5c0)
+
+[![Watch the video](https://img.youtube.com/vi/eGGukf8e0iI/maxresdefault.jpg)](https://youtu.be/eGGukf8e0iI)
+
+### [Watch this video on YouTube_2nd_vid](https://youtu.be/eGGukf8e0iI)
+
+[![Watch the video](https://img.youtube.com/vi/8_K5SfSyIyk/maxresdefault.jpg)](https://youtu.be/8_K5SfSyIyk)
+
+### [Watch this video on YouTube_3rd_vid](https://youtu.be/8_K5SfSyIyk)
