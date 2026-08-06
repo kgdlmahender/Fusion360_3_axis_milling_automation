@@ -19,7 +19,7 @@ If everything is ok then run the Posting.py, then it will post the toolpaths.
 If you have any updates that needs to be done according to your machine requirement, please reach out to mahender0310@gmail.com
 
 I have created a detailed playlist explaining step by step process.
-[![Watch the video]([https://img.youtube.com/vi/HZuDEIxv5c0&t=6s/maxresdefault.jpg)](https://youtu.be/HZuDEIxv5c0&t=6s)
+[![Watch the video](https://img.youtube.com/vi/HZuDEIxv5c0/maxresdefault.jpg)](https://www.youtube.com/watch?v=HZuDEIxv5c0)
 
 ### [Watch this video on YouTube_1st_vid](https://youtu.be/HZuDEIxv5c0)
 
